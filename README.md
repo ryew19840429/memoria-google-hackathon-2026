@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/memoria.png" alt="Memoria Logo" width="150" />
+  <img src="images/memoria.png" alt="Memoria Logo" width="400" />
   <h1>Memoria</h1>
   <p><b>Empowering Alzheimer's Patients and Caregivers through AI-Driven Compassion</b></p>
 </div>
