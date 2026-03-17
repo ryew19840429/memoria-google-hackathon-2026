@@ -1,0 +1,5 @@
+{
+  "name": "Memoria",
+  "description": "Preserving life stories and identity through a digital companion for Alzheimer's patients.",
+  "requestFramePermissions": ["microphone"]
+}
